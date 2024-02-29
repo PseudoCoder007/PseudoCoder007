@@ -32,12 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudocoder007&show_icons=true&locale=en" alt="pseudocoder007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudocoder007&" alt="pseudocoder007" /></p>
-###
 
 
 
+<br clear="both">
 <img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
