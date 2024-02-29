@@ -36,8 +36,7 @@
 
 <br clear="both">
 
-![snake gif]
-<img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />
+![snake gif](<img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />)
 
 ###
 
