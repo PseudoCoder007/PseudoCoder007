@@ -34,9 +34,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudocoder007&" alt="pseudocoder007" /></p>
 ###
 
-<br clear="both">
 
-![snake gif](<img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />)
+
+<img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />
 
 ###
 
