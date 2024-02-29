@@ -33,9 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudocoder007&" alt="pseudocoder007" /></p>
 
-
-
-<br clear="both">
 <h3 align="left"> Snake eating my contribution graph:</h3>
 <img src="https://raw.githubusercontent.com/pseudocoder007/pseudocoder007/output/snake.svg" alt="Snake animation" />
 
