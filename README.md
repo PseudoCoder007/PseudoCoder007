@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Saif</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pseudocoder007&label=Profile%20views&color=0e75b6&style=flat" alt="pseudocoder007" /> </p>
 
 - 🔭 I’m currently working on [Fbgram-react-app](https://github.com/PseudoCoder007/fbgram-react-app.git)
 
-- 🌱 I’m currently learning **react,js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PseudoCoder007](https://github.com/PseudoCoder007)
 
